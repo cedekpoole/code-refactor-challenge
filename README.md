@@ -6,7 +6,7 @@ This is an 'on-the-job ticket' or 'feature request' challenge where the main tas
 
 ## Usage 
 
-If you open up the static website via GitHub Pages (link: ...), you can inspect the elements of the page (Command + Option + C for Mac, Control + Shift + C for Windows/Linux). Through the inspect tool, you can view how semantic HTML has been incorporated into the webpage, in addition to seeing how the CSS selectors and properties are consolidated and organised to follow the semantic structure. You will also notice that all image elements contain accessible alt attributes - this is another key component to the refactoring process. 
+If you open up the static website via GitHub Pages (link: https://cedekpoole.github.io/code-refactor-challenge/), you can inspect the elements of the page (Command + Option + C for Mac, Control + Shift + C for Windows/Linux). Through the inspect tool, you can view how semantic HTML has been incorporated into the webpage, in addition to seeing how the CSS selectors and properties are consolidated and organised to follow the semantic structure. You will also notice that all image elements contain accessible alt attributes - this is another key component to the refactoring process. 
 
 
 ![alt text](assets/images/screenshot.png)
