@@ -2,7 +2,7 @@
 
 ## Description
 
-This is an 'on-the-job ticket' or 'feature request' challenge where the main task was to refactor existing code. To refactor code is to improve it without changing the way the code functions (for more on refactoring, see here:...). The goal was to improve accessibility through the incorporation of semantic HTML and the reworking of the CSS to follow the semantic structure of these elements. The CSS selectors have been consolidated to increase efficiency and comments have been made to help any future developer know what each section is for.
+This is an 'on-the-job ticket' or 'feature request' challenge where the main task was to refactor existing code. To refactor code is to improve it without changing the way the code functions (for more on refactoring, see here: https://refactoring.guru/refactoring). The goal was to improve accessibility through the incorporation of semantic HTML and the reworking of the CSS to follow the semantic structure of these elements. The CSS selectors have been consolidated to increase efficiency and comments have been made to help any future developer know what each section is for.
 
 ## Table of Contents
 
